@@ -8,4 +8,4 @@ As such we recommend mingw_w64 and msys be used to build in a windows
 environment. Both of which can be found at mingw.org
 
 For more information please visit our project home.
-https://01.org/intel-i18n-library
+https://01.org/intel-nvm-i18n-library
