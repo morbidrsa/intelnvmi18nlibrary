@@ -113,7 +113,7 @@ endif
 $(I18N_HEADER_DIR) :
 	$(MKDIR) $@
 	
-headers :
+headers : $(I18N_HEADER_DIR)
 	$(COPY) $(EXTERNAL_HEADERS) $(I18N_HEADER_DIR)
 		
 $(OBJECT_MODULE_DIR) :
